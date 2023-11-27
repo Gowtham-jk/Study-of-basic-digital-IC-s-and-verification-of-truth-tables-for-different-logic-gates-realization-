@@ -60,18 +60,20 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ## Program:
-![WhatsApp Image 2023-11-27 at 16 26 24_46c41927](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/25d53f60-330d-4053-89e6-a1fd894d130f)
+![image](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/cdfc282d-3b5a-413f-b6b9-ce35fdd4e2c9)
+
 
 ## RTL realization
-![WhatsApp Image 2023-11-27 at 16 26 24_f0a77104](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/c251c2f9-129a-41e9-8012-b72272cdf3da)
+![image](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/4e2c2324-0a61-43de-abad-760069f158ee)
 
 
 ## Truthtable
-![WhatsApp Image 2023-11-27 at 16 26 24_bf724a71](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/65cadb4c-086d-4809-b8ac-da68c3ea354a)
+![image](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/b78166d4-a010-4b51-9038-f09d352b6bfb)
+
 
 
 ## Output:
-![WhatsApp Image 2023-11-27 at 16 26 24_c53a36ee](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/8ef7a93e-a24d-4c7a-8937-3c20fc22978e)
+![image](https://github.com/Gowtham-jk/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149857834/191a66e2-acfc-40e0-98cd-7af5608f1f13)
 
 
 ## Result:
